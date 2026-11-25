@@ -30,7 +30,6 @@ public class DataLoader implements CommandLineRunner {
                 new Song("Thriller", "Michael Jackson", "pop"),
                 new Song("Beat It", "Michael Jackson", "pop"),
                 new Song("Smooth Criminal", "Michael Jackson", "pop"),
-                new Song("Man in the Mirror", "Michael Jackson", "pop"),
                 new Song("Heal the World", "Michael Jackson", "pop")
         ));
     }
